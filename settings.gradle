@@ -1,0 +1,3 @@
+include ':app'
+include ':lib:HoloColorPicker-master'
+//include ':lib:android-async-http-1.4.5'
